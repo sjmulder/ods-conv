@@ -3,7 +3,7 @@ ods-conv
 Convert from OpenDocument spreadsheet format (OpenOffice, LibreOffice)
 to text.
 
-**ods-conv** [**-F** *format*] *file*
+**ods-conv** [**-T** *format*] *file*
 
 **format** currently has one option, *tsv*, which is the default.
 
